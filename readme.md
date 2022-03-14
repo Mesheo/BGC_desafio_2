@@ -23,3 +23,17 @@ npm i aws-sdk
 npm i nodemon
 npm i cors
 ```
+
+# Getting Started
+```bash
+# CLone repository
+git clone https://github.com/Mesheo/BGC_desafio_2 && cd BGC_desafio_2/app
+
+#Initialize npm package 
+npm init 
+
+#Run Aplication
+npm start
+```
+
+

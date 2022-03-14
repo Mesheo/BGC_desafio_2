@@ -7,3 +7,6 @@ jspm_packages
 
 #config file
 ./api/config.js
+
+#images
+/img
